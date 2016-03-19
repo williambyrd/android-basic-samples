@@ -1,5 +1,7 @@
 Google Play game services - Android Samples
 ===========================================
+
+[![Join the chat at https://gitter.im/williambyrd/android-basic-samples](https://badges.gitter.im/williambyrd/android-basic-samples.svg)](https://gitter.im/williambyrd/android-basic-samples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Copyright (C) 2014 Google Inc.
 
 <h2>Contents</h2>
